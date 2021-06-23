@@ -18,6 +18,13 @@ users:
   - https://gitee.com/opensourceway/om-docs
   - https://gitee.com/opengauss/infra
   - https://github.com/opensourceways/infra-community
+- name: 'Zeng Chen'
+  gitee_id: 'zengchen1024'
+  github_id: 'zengchen1024'
+  repos:
+  - https://github.com/opensourceways/test-infra
+  - https://github.com/opensourceways/app-cla-server
+  - https://github.com/opensourceways/yabot
 - name: 'Xiyuan Wang'
   gitee_id: 'xiyuanwang'
   github_id: 'wangxiyuan'
