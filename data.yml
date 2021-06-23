@@ -14,3 +14,7 @@ users:
   - https://gitee.com/opensourceway/om-collections
   - https://gitee.com/opensourceway/om-webserver
   - https://github.com/opensourceways/infra-common
+  - https://gitee.com/opensourceway/om-kafka
+  - https://gitee.com/opensourceway/om-docs
+  - https://gitee.com/opengauss/infra
+  - https://github.com/opensourceways/infra-community
