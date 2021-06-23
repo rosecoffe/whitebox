@@ -2,11 +2,14 @@ users:
 - name: 'Yikun Jiang'
   gitee_id: 'yikunkero'
   github_id: 'Yikun'
+  # Recommanded, only fetch the default branch of repos
   repos:
-  - https://github.com/apache/spark
   - https://github.com/yikun/hub-mirror-action
   - https://github.com/yikun/repoinsight
   - https://gitee.com/opensourceway/om-bigdata
+  # Optional, fetch all branches of repos
+  repos_all_branches:
+  - https://github.com/apache/spark
 - name: 'Jun Zhong'
   gitee_id: 'zhongjun2'
   github_id: 'zhongjun2'
