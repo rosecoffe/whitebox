@@ -139,4 +139,12 @@ users:
   - https://gitee.com/src-openeuler/python-XStatic-tv4
   - https://gitee.com/src-openeuler/python-zstd
   - https://gitee.com/src-openeuler/x265
+  - https://gitee.com/openpackage/qemu
+  - https://gitee.com/openpackage/novnc
+  - https://gitee.com/openpackage/libvirt-glib
+  - https://gitee.com/openpackage/libvirt-python
+  - https://gitee.com/openpackage/libvirt
+  - https://gitee.com/openpackage/meson
+  - https://gitee.com/openpackage/liberasurecode
+  - https://gitee.com/openpackage/spice-html5
   - https://github.com/theopenlab/openlab-zuul-jobs
