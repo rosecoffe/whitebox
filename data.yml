@@ -54,7 +54,6 @@ users:
   - https://gitee.com/src-openeuler/networking-baremetal
   - https://gitee.com/src-openeuler/networking-generic-switch
   - https://gitee.com/src-openeuler/novnc
-  - https://gitee.com/src-openeuler/obs_meta
   - https://gitee.com/src-openeuler/subunit
   - https://gitee.com/src-openeuler/openstack-cinder
   - https://gitee.com/src-openeuler/openstack-horizon
