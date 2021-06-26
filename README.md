@@ -1,5 +1,7 @@
 # whitebox
 
+[![Data sync](https://github.com/opensourceways/whitebox/actions/workflows/import.yml/badge.svg)](https://github.com/opensourceways/whitebox/actions/workflows/import.yml)
+
 Please add your owner info in data.yaml:
 
 ```yaml
