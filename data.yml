@@ -4,9 +4,19 @@ users:
   github_id: 'Yikun'
   # Recommanded, only fetch the default branch of repos
   repos:
-  - https://github.com/yikun/hub-mirror-action
-  - https://github.com/yikun/repoinsight
+  - https://github.com/Yikun/hub-mirror-action
+  - https://github.com/Yikun/repoinsight
   - https://gitee.com/opensourceway/om-bigdata
+  - https://github.com/opensourceways/whitebox
+  - https://github.com/NetEase/kyuubi
+  - https://github.com/Yikun/annotation-type-checker
+  - https://github.com/Yikun/repoinsight
+  - https://github.com/tinyms-ai/tinyms
+  - https://github.com/opensourceways/infra-common
+  - https://github.com/Yikun/reposcore
+  - https://github.com/davidB/scala-maven-plugin
+  - https://github.com/apache/spark-website
+  - https://github.com/ossf/criticality_score
   # Optional, fetch all branches of repos
   repos_all_branches:
   - https://github.com/apache/spark
