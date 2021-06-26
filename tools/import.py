@@ -12,8 +12,8 @@ def generate_projects():
         users = x.get("users")
         for user in users:
             repos = user.get('repos') if x.get('repos') else []
-            repos_all_branches = user.get('repos_all_branches') if x.get('repos') else []
-            repos += repos_all_branches
+            all_br = user.get('repos_all_branches') if x.get('repos_all_branches') else []
+            repos += all_br
             print("Found:", user.get('name', 'Unknow'), "total", len(repos), "projects")
             for repo in repos:
                 gitee_user = user.get('gitee_id', 'Unknow')
