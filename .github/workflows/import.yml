@@ -1,4 +1,4 @@
-name: Import data to ES
+name: Data sync
 
 on:
   push:
