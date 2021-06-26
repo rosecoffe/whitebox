@@ -45,8 +45,8 @@ users:
   - https://gitee.com/openpackage/liberasurecode
   - https://gitee.com/openpackage/spice-html5
   - https://gitee.com/openpackage/kolla
-  - https://gitee.com/openpackage/kolla-ansible
   - https://github.com/theopenlab/openlab-zuul-jobs
+  - https://gitee.com/openpackage/kolla-ansible
   repos_all_branches:
   - https://gitee.com/openeuler/docs
   - https://gitee.com/src-openeuler/diskimage-builder
@@ -160,6 +160,11 @@ users:
   - https://gitee.com/src-openeuler/python-XStatic-tv4
   - https://gitee.com/src-openeuler/python-zstd
   - https://gitee.com/src-openeuler/x265
+- name: 'Zhenyu Zheng'
+  gitee_id: 'zhengzhenyu'
+  github_id: 'ZhengZhenyu'
+  repos:
+  - https://github.com/kunpengcompute/arm-landscape
 - name: 'Jiawei Li'
   gitee_id: 'ffrog'
   github_id: 'fffrog'
