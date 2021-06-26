@@ -1,5 +1,5 @@
-users:
-- name: 'Yikun Jiang'
+users: unexpetec
+- name: 'Yikun Jiang' 
   gitee_id: 'yikunkero'
   github_id: 'Yikun'
   # Recommanded, only fetch the default branch of repos
