@@ -2,8 +2,6 @@ users:
 - name: 'Yikun Jiang'
   gitee_id: 'yikunkero'
   github_id: 'Yikun'
-  alias:
-  - "Jiang Yikun"
   # Recommended, only fetch the default branch of repos
   repos:
   - https://github.com/Yikun/hub-mirror-action
@@ -430,6 +428,8 @@ users:
 - name: 'Peng Lei'
   gitee_id: 'PYinuo'
   github_id: 'Peng-Lei'
+  alias:
+  - "PengLei"
   # Recommended, only fetch the default branch of repos
   repos:
   # Optional, fetch all branches of repos
