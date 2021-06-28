@@ -2,7 +2,7 @@ users:
 - name: 'Yikun Jiang'
   gitee_id: 'yikunkero'
   github_id: 'Yikun'
-  # Recommanded, only fetch the default branch of repos
+  # Recommended, only fetch the default branch of repos
   repos:
   - https://github.com/Yikun/hub-mirror-action
   - https://github.com/Yikun/repoinsight
@@ -339,7 +339,7 @@ users:
 - name: 'huangtianhua'
   gitee_id: 'huangtianhua'
   github_id: 'huangtianhua'
-  # Recommanded, only fetch the default branch of repos
+  # Recommended, only fetch the default branch of repos
   repos:
   - https://gitee.com/openeuler/openeuler-jenkins
   - https://gitee.com/openeuler/community
@@ -357,7 +357,7 @@ users:
   - https://gitee.com/src-openeuler/python-sphinxcontrib-blockdiag
   - https://gitee.com/src-openeuler/python-wsgi-intercept
   - https://github.com/apache/spark
-  
+
   # Optional, fetch all branches of repos
   repos_all_branches:
   - https://gitee.com/src-openeuler/diskimage-builder
@@ -428,22 +428,53 @@ users:
 - name: 'Peng Lei'
   gitee_id: 'PYinuo'
   github_id: 'Peng-Lei'
-  # Recommanded, only fetch the default branch of repos
+  # Recommended, only fetch the default branch of repos
   repos:
   # Optional, fetch all branches of repos
   repos_all_branches:
   - https://github.com/apache/spark
- 
+
 - name: 'baolin li'
   gitee_id: 'bolin-lee'
   github_id: 'bolin3540'
-  # Recommanded, only fetch the default branch of repos
+  # Recommended, only fetch the default branch of repos
   repos:
   - https://gitee.com/openeuler-practice-courses/lfs-course
   - https://gitee.com/src-openeuler/python-iso8601
   # Optional, fetch all branches of repos
   repos_all_branches:
   - https://github.com/apache/spark
+
+- name: 'TommyLike Hu'
+  gitee_id: 'TommyLike'
+  github_id: 'TommyLike'
+  gitlab_id: 'tommylikehu'
+  # Recommended, only fetch the default branch of repos
+  repos:
+  # Simple application used for keep track of git content and server folder
+  # or file as restful endpoints.
+  - https://github.com/opensourceways/app-community-metadata
+  # Forked from etix/mirrorbits and used for openEuler mirror list managing.
+  - https://github.com/opensourceways/mirrorbits
+  # Gitee identity provider for KeyCloak
+  - https://github.com/opensourceways/keycloak-social-gitee
+  # Rpm index tool for openEuler community
+  # Support ssl verification configurable PR
+  # https://github.com/dadoonet/fscrawler/pull/1036
+  - https://github.com/dadoonet/fscrawler
+  # Community Mailman project
+  # Encoding issue for mailman core PR
+  # https://gitlab.com/mailman/mailman/-/merge_requests/822
+  # gitlab account: tommylikehu
+  - https://gitlab.com/mailman/mailman
+  # Infrastructure yaml resource repo
+  - https://github.com/opensourceways/infra-common
+  - https://github.com/opensourceways/infra-community
+  - https://github.com/opensourceways/infra-mindspore
+  - https://github.com/opensourceways/infra-openeuler
+  - https://github.com/opensourceways/infra-openlookeng
+  # Docs related
+  - https://github.com/opensourceways/infra-landscape
 
 - name: 'George Cao'
   gitee_id: 'georgecao'
