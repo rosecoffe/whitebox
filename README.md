@@ -9,6 +9,9 @@ Please add your owner info in data.yaml:
   gitee_id: 'the gitee id'
   github_id: 'the github id'
   gitlab_id: 'the gitlab id'
+  alias:
+  - "Your alias name"
+  - "other alias name"
   # Required, The repo url list you contributed. Only the default branch would be counted.
   repos:
   - https://github.com/opensourceways/whitebox
