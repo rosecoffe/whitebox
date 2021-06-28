@@ -57,7 +57,8 @@ def generate_users():
             for name in names:
                 doc = {
                     "name": user.get('name'),
-                    "alias": name
+                    "alias": name,
+                    "created_at": time.strftime("%Y-%m-%dT%H:00:00+0800")
                 }
                 yield doc
 
