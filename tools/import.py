@@ -1,4 +1,5 @@
 import time
+import sys
 
 import click
 from elasticsearch import Elasticsearch
@@ -7,16 +8,19 @@ import yaml
 
 
 def _get_user_id(user, repo):
-    name = ''
+    user_name = user.get('name', 'Unknow')
+    user_id = ''
     if 'gitee.com' in repo:
-        name = user.get('gitee_id', '')
+        user_id = user.get('gitee_id', '')
     elif 'github.com' in repo:
-        name = user.get('github_id', '')
+        user_id = user.get('github_id', '')
     elif 'gitlab.com' in repo:
-        name = user.get('gitlab_id', '')
-    if not name:
-        raise ValueError("Can't load the (%s) user id, "
-                         "Pls specify your (gitee|github|gitlab)_id." % repo)
+        user_id = user.get('gitlab_id', '')
+    if not user_id:
+        print("ERROR: Can't load the (%s) user id, "
+              "Pls specify %s (gitee|github|gitlab)_id." % (user_name, repo))
+        sys.exit(1)
+    return user_id
 
 
 def generate_projects():
