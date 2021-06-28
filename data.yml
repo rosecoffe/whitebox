@@ -448,6 +448,7 @@ users:
 - name: 'TommyLike Hu'
   gitee_id: 'TommyLike'
   github_id: 'TommyLike'
+  gitlab_id: 'tommylikehu'
   # Recommended, only fetch the default branch of repos
   repos:
   # Simple application used for keep track of git content and server folder
