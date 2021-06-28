@@ -474,3 +474,38 @@ users:
   - https://github.com/opensourceways/infra-openlookeng
   # Docs related
   - https://github.com/opensourceways/infra-landscape
+
+- name: 'George Cao'
+  gitee_id: 'georgecao'
+  github_id: 'GeorgeCao-hw'
+  # Recommended, only fetch the default branch of repos
+  repos:
+  - https://github.com/GeorgeCao-hw/georgedoc
+  - https://github.com/GeorgeCao-hw/infra-openeuler
+  - https://github.com/opensourceways/app-bugzilla
+  - https://github.com/opensourceways/app-pkgmanage
+  - https://github.com/opensourceways/infra-openeuler
+  - https://github.com/opensourceways/infra-community
+  - https://github.com/opensourceways/infra-common
+  - https://github.com/opensourceways/infra-mindspore
+  - https://github.com/opensourceways/app-meeting-server
+  - https://github.com/openeuler-mirror/infrastructure
+  - https://github.com/openeuler-mirror/community
+  - https://github.com/openeuler-mirror/docs
+  - https://github.com/openeuler-mirror/ci-bot
+  - https://github.com/openeuler-mirror/pkgship
+  - https://github.com/openeuler-mirror/website
+  - https://gitee.com/openeuler/infrastructure
+  - https://gitee.com/openeuler/community
+  - https://gitee.com/openeuler/ci-bot
+  - https://gitee.com/openeuler/docs
+  - https://gitee.com/openeuler/website
+  - https://gitee.com/opensourceway/app-bugzilla
+  - https://gitee.com/georgecaotest/mypytools
+  - https://gitee.com/openeuler-competition/summer-2021
+  - https://gitee.com/openeuler-competition/nationalinnovation-2021
+  - https://gitee.com/openeuler-competition/Innovation-Practice-Course
+  - https://gitee.com/openeuler-practice-courses/lanzhou_university_2021
+  - https://gitee.com/openeuler-practice-courses/nankai_university_2021
+  - https://gitee.com/openeuler-practice-courses/peking_university_2021
+  - https://gitee.com/openeuler-practice-courses/lfs-course

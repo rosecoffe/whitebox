@@ -8,6 +8,7 @@ Please add your owner info in data.yaml:
 - name: 'Your name'
   gitee_id: 'the gitee id'
   github_id: 'the github id'
+  gitlab_id: 'the gitlab id'
   # Required, The repo url list you contributed. Only the default branch would be counted.
   repos:
   - https://github.com/opensourceways/whitebox
