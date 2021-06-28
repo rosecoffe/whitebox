@@ -30,6 +30,7 @@ users:
   - https://gitee.com/opensourceway/om-kafka
   - https://gitee.com/opensourceway/om-docs
   - https://gitee.com/opengauss/infra
+  - https://github.com/opengauss-mirror/openGauss-third_party
 - name: 'Zeng Chen'
   gitee_id: 'zengchen1024'
   github_id: 'zengchen1024'
@@ -117,7 +118,7 @@ users:
   # Same as above- https://gitee.com/openeuler/docs
   - https://gitee.com/openeuler/website
   - https://gitee.com/opensourceway/app-bugzilla
-  - https://gitee.com/georgecaotest/mypytools
+  # not have right to clone code - https://gitee.com/georgecaotest/mypytools
   - https://gitee.com/openeuler-competition/summer-2021
   - https://gitee.com/openeuler-competition/nationalinnovation-2021
   - https://gitee.com/openeuler-competition/Innovation-Practice-Course
