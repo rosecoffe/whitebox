@@ -6,6 +6,19 @@ from elasticsearch.helpers import streaming_bulk
 import yaml
 
 
+def _get_user_id(user, repo):
+    name = ''
+    if 'gitee.com' in repo:
+        name = user.get('gitee_id', '')
+    elif 'github.com' in repo:
+        name = user.get('github_id', '')
+    elif 'gitlab.com' in repo:
+        name = user.get('gitlab_id', '')
+    if not name:
+        raise ValueError("Can't load the (%s) user id, "
+                         "Pls specify your (gitee|github|gitlab)_id." % repo)
+
+
 def generate_projects():
     with open("./data.yml") as f:
         x = yaml.load(f, Loader=yaml.FullLoader)
@@ -16,11 +29,10 @@ def generate_projects():
             repos = set(repos + repos_all_branches)
             print("Found:", user.get('name', 'Unknow'), "total", len(repos), "projects")
             for repo in repos:
-                gitee_user = user.get('gitee_id', 'Unknow')
-                github_user = user.get('github_id', 'Unknow')
+                user_id = _get_user_id(user, repo)
                 doc = {
                     "name": user.get('name', 'Unknow'),
-                    "user": gitee_user if 'gitee.com' in repo else github_user,
+                    "user": user_id,
                     "repo": repo,
                     "created_at": time.strftime("%Y-%m-%dT%H:00:00+0800")
                 }
