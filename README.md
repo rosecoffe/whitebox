@@ -9,9 +9,10 @@ Please add your owner info in data.yaml:
   gitee_id: 'the gitee id'
   github_id: 'the github id'
   gitlab_id: 'the gitlab id'
+  # alias is used to discover your commits (name/gitee_id/github_id/gitlab_id is in default alias names) 
   alias:
   - "Your alias name"
-  - "other alias name"
+  - "Other alias name you want to track"
   # Required, The repo url list you contributed. Only the default branch would be counted.
   repos:
   - https://github.com/opensourceways/whitebox
