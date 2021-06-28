@@ -48,11 +48,12 @@ def generate_users():
         x = yaml.load(f, Loader=yaml.FullLoader)
         users = x.get("users")
         for user in users:
+            name = user.get('name', '')
             gitee_id = user.get('gitee_id', '')
             github_id = user.get('github_id', '')
             gitlab_id = user.get('gitlab_id', '')
             alias = [x for x in user.get('alias', [])]
-            alias += [gitee_id, github_id, gitlab_id]
+            alias += [gitee_id, github_id, gitlab_id, name]
             names = set(x for x in alias if x)
             for name in names:
                 doc = {
