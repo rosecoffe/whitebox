@@ -43,6 +43,24 @@ def generate_projects():
                 yield doc
 
 
+def generate_users():
+    with open("./data.yml") as f:
+        x = yaml.load(f, Loader=yaml.FullLoader)
+        users = x.get("users")
+        for user in users:
+            gitee_id = user.get('gitee_id', '')
+            github_id = user.get('github_id', '')
+            gitlab_id = user.get('gitlab_id', '')
+            alias = [x for x in user.get('alias', [])]
+            alias += [gitee_id, github_id, gitlab_id]
+            names = set(x for x in alias if x)
+            for name in names:
+                doc = {
+                    "name": user.get('name'),
+                    "alias": name
+                }
+                yield doc
+
 @click.command()
 @click.option('--host', help='The public IP of ES cluster.')
 @click.option('--user', help='The user name of ES cluster.')
@@ -52,23 +70,30 @@ def _main(host, user, passwd, mode):
     if mode == "check":
         for proj in generate_projects():
             print(proj.get("name"), proj.get("user"), proj.get("repo"))
+        for name in generate_users():
+            print(name.get("name"), name.get("alias"))
     elif mode == "import":
         _import(host, user, passwd)
     else:
         print("Unknow mode, only support 'check' and 'import'.")
 
 
-def _import(host, user, passwd):
-    es = Elasticsearch([host], http_auth=(user, passwd), use_ssl=True, verify_certs=False)
-    # Cleanup es index
-    es.indices.delete(index='whitebox_projects', ignore=[404])
-
+def _bulk(es, index, iter):
+    es.indices.delete(index=index, ignore=[404])
     actions = streaming_bulk(
-        client=es, index="whitebox_projects", actions=generate_projects()
+        client=es, index=index, actions=iter
     )
     for ok, action in actions:
         if not ok:
             print("Failed to insert doc...")
+
+
+def _import(host, user, passwd):
+    es = Elasticsearch([host], http_auth=(user, passwd), use_ssl=True, verify_certs=False)
+
+    _bulk(es, 'whitebox_projects', generate_projects())
+    _bulk(es, 'whitebox_users', generate_users())
+
     print("Load complete.")
 
 
