@@ -54,17 +54,6 @@ users:
   repos_all_branches:
   # Same as above- https://github.com/apache/spark
 
-- name: 'baolin li'
-  gitee_id: 'bolin-lee'
-  github_id: 'bolin3540'
-  # Recommended, only fetch the default branch of repos
-  repos:
-  - https://gitee.com/openeuler-practice-courses/lfs-course
-  - https://gitee.com/src-openeuler/python-iso8601
-  # Optional, fetch all branches of repos
-  repos_all_branches:
-  # Same as above- https://github.com/apache/spark
-
 - name: 'TommyLike Hu'
   gitee_id: 'TommyLike'
   github_id: 'TommyLike'
