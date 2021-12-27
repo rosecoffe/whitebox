@@ -85,6 +85,16 @@ users:
   - https://github.com/opensourceways/infra-openlookeng
   # Docs related
   - https://github.com/opensourceways/infra-landscape
+  # Lxc launcher used for lxc instance management
+  - https://github.com/opensourceways/lxc-launcher
+  # Gotty used for playground web terminal
+  - https://github.com/opensourceways/gotty
+  # Code server operator used for dynamic instance management in kuberetes, supported type are vm, container and vs code.
+  - https://github.com/opensourceways/code-server-operator
+  repos_all_branches:
+  # Distrobuilder used for lxd image creation
+  - https://github.com/opensourceways/distrobuilder
+
 
 - name: 'George Cao'
   gitee_id: 'georgecao'
