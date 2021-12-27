@@ -17,6 +17,10 @@ users:
   - https://github.com/davidB/scala-maven-plugin
   - https://github.com/apache/spark-website
   - https://github.com/ossf/criticality_score
+  - https://github.com/fabric8io/kubernetes-client
+  - https://gitee.com/src-openeuler/pig
+  - https://gitee.com/src-openeuler/tez
+  - https://gitee.com/src-openeuler/phoenix
   # Optional, fetch all branches of repos
   repos_all_branches:
   - https://github.com/apache/spark
