@@ -34,6 +34,7 @@ users:
   - https://gitee.com/opensourceway/om-kafka
   - https://gitee.com/opensourceway/om-docs
   - https://gitee.com/opengauss/infra
+  - https://gitee.com/opensourceway/om-template
   - https://github.com/opengauss-mirror/openGauss-third_party
 - name: 'Zeng Chen'
   gitee_id: 'zengchen1024'
