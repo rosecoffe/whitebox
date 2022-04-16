@@ -36,6 +36,9 @@ users:
   - https://gitee.com/opengauss/infra
   - https://gitee.com/opensourceway/om-template
   - https://github.com/opengauss-mirror/openGauss-third_party
+  - https://gitee.com/opengauss/playground-course
+  - https://gitee.com/opensourceway/om-sdk-python
+  - https://gitee.com/opengauss/release-management
 - name: 'Zeng Chen'
   gitee_id: 'zengchen1024'
   github_id: 'zengchen1024'
