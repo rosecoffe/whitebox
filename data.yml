@@ -33,6 +33,13 @@ users:
   - https://github.com/opensourceways/infra-common
   - https://gitee.com/opensourceway/om-kafka
   - https://gitee.com/opensourceway/om-docs
+  - https://gitee.com/opensourceway/om-deployment
+  - https://gitee.com/opensourceway/om-JenkinsLog
+  - https://gitee.com/opensourceway/om-data
+  - https://gitee.com/opensourceway/om-sdk-python
+  - https://gitee.com/opensourceway/om-bigdata
+  - https://gitee.com/opensourceway/om-reptile
+  - https://gitee.com/opensourceway/om-kafka
   - https://gitee.com/opengauss/infra
   - https://gitee.com/opensourceway/om-template
   - https://github.com/opengauss-mirror/openGauss-third_party
