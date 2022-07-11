@@ -129,7 +129,10 @@ users:
   repos_all_branches:
   # Distrobuilder used for lxd image creation
   - https://github.com/opensourceways/distrobuilder
-
+  # omni build platform orchestrator which used for image job management
+  - https://github.com/omnibuildplatform/omni-orchestrator
+  # omni build platform repository which used for image store and distribution
+  - https://github.com/omnibuildplatform/omni-repository
 
 - name: 'George Cao'
   gitee_id: 'georgecao'
