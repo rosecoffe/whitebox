@@ -399,3 +399,10 @@ users:
   - https://github.com/theopenlab/openlab-zuul-jobs
   - https://github.com/theopenlab/publications
   - https://github.com/theopenlab/governance
+- name: 'Guofeng He'
+  gitee_id: 'Nelson-He'
+  github_id: 'Nelson-He'
+  repos:
+  - https://github.com/opensourceways/playground-images
+  - https://gitee.com/opengauss/playground-course
+  - https://gitee.com/opengauss/openGauss-webclient
