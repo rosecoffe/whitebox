@@ -21,6 +21,7 @@ users:
   - https://gitee.com/src-openeuler/pig
   - https://gitee.com/src-openeuler/tez
   - https://gitee.com/src-openeuler/phoenix
+  - https://github.com/apache/spark-docker
   # Optional, fetch all branches of repos
   repos_all_branches:
   - https://github.com/apache/spark
