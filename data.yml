@@ -137,6 +137,12 @@ users:
   - https://github.com/omnibuildplatform/omni-orchestrator
   # omni build platform repository which used for image store and distribution
   - https://github.com/omnibuildplatform/omni-repository
+  # Copr used for build packages for different distros
+  - https://github.com/fedora-copr/copr
+  # resalloc-kubernetes is a Rust CMD used for allocating pod resource for resalloc framework which will be used in COPR.
+  - https://github.com/TommyLike/resalloc-kubernetes
+  # RPM rs is a library used for rpm generating, signing and signature verification.
+  - https://github.com/rpm-rs/rpm
 
 - name: 'George Cao'
   gitee_id: 'georgecao'
