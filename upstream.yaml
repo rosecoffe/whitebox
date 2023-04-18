@@ -8,6 +8,7 @@ users:
   - https://github.com/apache/spark-website
   - https://github.com/apache/spark-docker
   - https://github.com/pytorch/pytorch
+  - https://github.com/openhpc/ohpc
 
   # Optional, fetch all branches of repos
   repos_all_branches:
