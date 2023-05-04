@@ -9,6 +9,8 @@ users:
   - https://github.com/apache/spark-docker
   - https://github.com/pytorch/pytorch
   - https://github.com/openhpc/ohpc
+  - https://github.com/apache/hive
+  - https://github.com/apache/hbase
 
   # Optional, fetch all branches of repos
   repos_all_branches:
