@@ -11,6 +11,7 @@ users:
   - https://github.com/openhpc/ohpc
   - https://github.com/apache/hive
   - https://github.com/apache/hbase
+  - https://github.com/ceph/ceph
 
   # Optional, fetch all branches of repos
   repos_all_branches:
