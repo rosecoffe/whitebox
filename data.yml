@@ -72,7 +72,7 @@ users:
   - https://github.com/drizzlezyk/MindSpore-competition
   - https://github.com/drizzlezyk/xihe_tutorial
   - https://github.com/drizzlezyk/CodeGeeX-deploy
-  - https://github.com/drizzlezyk/pangu-deploy
+  # - https://github.com/drizzlezyk/pangu-deploy
   - https://github.com/drizzlezyk/DDPM-MindSpore
   
 - name: 'Zeng Chen'
