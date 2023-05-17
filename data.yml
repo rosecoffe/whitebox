@@ -52,6 +52,22 @@ users:
   - https://gitee.com/opengauss/playground-course
   - https://gitee.com/opensourceway/om-sdk-python
   - https://gitee.com/opengauss/release-management
+  - https://gitee.com/opensourceway/easyeditor-server
+- name: 'wangweifeng'
+  gitee_id: 'wang-weifeng21'
+  github_id: 'hiddenvillage'
+  repos:
+  - https://gitee.com/opensourceway/easyeditor-server
+  - https://github.com/opensourceways/discourse-translator/pulls
+  - https://github.com/opensourceways/discourse-oauth2-basic/pulls
+  - https://github.com/opensourceways/discourse_docker/pulls
+  - https://github.com/opensourceways/oneid-server
+  - https://github.com/opensourceways/om-docs
+- name: 'zhongyuanke'
+  gitee_id: 'drizzlezyk'
+  github_id: 'drizzlezyk'
+  repos:
+  - https://gitee.com/opensourceway/easyeditor-server
 - name: 'Zeng Chen'
   gitee_id: 'zengchen1024'
   github_id: 'zengchen1024'
