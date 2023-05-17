@@ -67,7 +67,14 @@ users:
   gitee_id: 'drizzlezyk'
   github_id: 'drizzlezyk'
   repos:
-  - https://gitee.com/opensourceway/easyeditor-server
+  - https://github.com/opensourceways/xihe-server
+  - https://github.com/opensourceways/infra-mindspore
+  - https://github.com/drizzlezyk/MindSpore-competition
+  - https://github.com/drizzlezyk/xihe_tutorial
+  - https://github.com/drizzlezyk/CodeGeeX-deploy
+  # - https://github.com/drizzlezyk/pangu-deploy
+  - https://github.com/drizzlezyk/DDPM-MindSpore
+  
 - name: 'Zeng Chen'
   gitee_id: 'zengchen1024'
   github_id: 'zengchen1024'
