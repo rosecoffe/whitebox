@@ -26,6 +26,8 @@ users:
   - https://github.com/volcano-sh/volcano
   - https://gitee.com/openeuler/openeuler-docker-images
   - https://github.com/rpm-software-management/mock
+  - https://gitee.com/openeuler/TC
+  - https://github.com/bioconda/bioconda-utils
   # Optional, fetch all branches of repos
   repos_all_branches:
   - https://github.com/apache/spark
