@@ -12,6 +12,9 @@ users:
   - https://github.com/apache/hive
   - https://github.com/apache/hbase
   - https://github.com/ceph/ceph
+  - https://github.com/cp2k/cp2k
+  - https://github.com/QEF/q-e
+  - https://github.com/wrf-model/WRF
 
   # Optional, fetch all branches of repos
   repos_all_branches:
