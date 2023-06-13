@@ -15,6 +15,18 @@ users:
   - https://github.com/cp2k/cp2k
   - https://github.com/QEF/q-e
   - https://github.com/wrf-model/WRF
+  - https://github.com/topics/gfs
+  - https://github.com/ESCOMP/CESM
+  - https://github.com/USEPA/CMAQ
+  - https://github.com/camx
+  - https://github.com/lzccccc/SMOKE
+  - https://github.com/OpenFOAM/OpenFOAM-dev
+  - https://github.com/su2code/SU2
+  - https://github.com/anmolpanda/QE-GPU
+  - https://github.com/gromacs/gromacs
+  - https://github.com/nbcrrolls/namd
+  - https://github.com/lammps/lammps
+  - https://github.com/amberframework/amber
 
   # Optional, fetch all branches of repos
   repos_all_branches:
