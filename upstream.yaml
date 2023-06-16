@@ -26,7 +26,7 @@ users:
   - https://github.com/nbcrrolls/namd
   - https://github.com/lammps/lammps
   - https://github.com/amberframework/amber
-  - https://github.com/DPDK/dpdk.git
+  - https://github.com/DPDK/dpdk
 
   # Optional, fetch all branches of repos
   repos_all_branches:
