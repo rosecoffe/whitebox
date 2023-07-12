@@ -248,6 +248,7 @@ users:
   - https://gitee.com/opengauss/openGauss-webclient
   - https://gitee.com/openeuler/lfs-course
   - https://gitee.com/openeuler/eulerlauncher
+  - https://github.com/TheOmniVirt/omnivirt
 
 - name: 'Jiawei Li'
   gitee_id: 'ffrog'
