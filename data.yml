@@ -166,6 +166,8 @@ users:
   - https://github.com/TommyLike/resalloc-kubernetes
   # RPM rs is a library used for rpm generating, signing and signature verification.
   - https://github.com/rpm-rs/rpm
+  # Signatrust is the project used for efi/ko/rpm/checksum signing in openEuler
+  - https://gitee.com/openeuler/signatrust
 
 - name: 'George Cao'
   gitee_id: 'georgecao'
