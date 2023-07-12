@@ -308,3 +308,44 @@ users:
   - https://github.com/drizzlezyk/xihe_tutorial
   - https://github.com/drizzlezyk/CodeGeeX-deploy
   - https://github.com/drizzlezyk/pangu-deploy
+
+- name: "li chaoran"
+  gitee_id: 'mywaaagh_admin'
+  github_id: 'pkking'
+  repos:
+  - https://gitee.com/openeuler/release-management/
+  - https://gitee.com/openeuler/community
+  - https://gitee.com/openeuler/pyporter
+  - https://gitee.com/openeuler/wsl
+  - https://gitee.com/openeuler/signatrust
+  - https://gitee.com/src-openeuler/i3
+  - https://gitee.com/src-openeuler/i3status
+  - https://gitee.com/src-openeuler/perl-AnyEvent-I3
+  - https://gitee.com/src-openeuler/perl-AnyEvent
+  - https://gitee.com/src-openeuler/xcb-util-xrm
+  - https://gitee.com/src-openeuler/xcompmgr
+  - https://gitee.com/src-openeuler/perl-IO-Pipely
+  - https://gitee.com/src-openeuler/perl-Guard
+  - https://gitee.com/src-openeuler/perl-Glib
+  - https://gitee.com/src-openeuler/perl-Curses
+  - https://gitee.com/src-openeuler/dmenu
+  - https://gitee.com/src-openeuler/perl-Task-Weaken
+  - https://gitee.com/src-openeuler/perl-POE-Test-Loops
+  - https://gitee.com/src-openeuler/perl-Test-Command
+  - https://gitee.com/src-openeuler/python-retask
+  - https://gitee.com/mywaaagh_admin/copr-rpms
+  - https://gitee.com/src-openeuler/python-ipdb
+  - https://gitee.com/src-openeuler/fish
+  - https://gitee.com/src-openeuler/fisher
+  - https://gitee.com/src-openeuler/python-pyLibravatar
+  - https://gitee.com/src-openeuler/python-cccolutils
+  - https://gitee.com/src-openeuler/perl-POE
+  - https://github.com/fedora-copr/copr
+  - https://github.com/pkking/efi_signer
+  - https://github.com/pkking/efi_signer
+  - https://github.com/rpm-software-management/mock
+  - https://github.com/TommyLike/resalloc-kubernetes/
+  - https://github.com/lxc/lxc-ci/
+  - https://github.com/opensourceways/infra-openeuler
+  - https://github.com/opensourceways/infra-common/
+  - https://github.com/opensourceways/copr_docker
