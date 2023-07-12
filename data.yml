@@ -114,6 +114,8 @@ users:
   - https://github.com/opensourceways/xihe-training-center
   - https://github.com/opensourceways/xihe-inference-evaluate
   - https://github.com/opensourceways/xihe-gitlab-hook-delivery
+  - https://github.com/opensourceways/software-package-server
+  - https://github.com/opensourceways/robot-gitee-software-package
 
 - name: 'TommyLike Hu'
   gitee_id: 'TommyLike'
