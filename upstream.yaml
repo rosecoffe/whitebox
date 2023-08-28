@@ -28,6 +28,8 @@ users:
   - https://github.com/amberframework/amber
   - https://github.com/DPDK/dpdk
   - https://github.com/lustre/lustre-release
+  - https://github.com/opencv/opencv
+  - https://github.com/opencv/opencv_contrib
   # Optional, fetch all branches of repos
   repos_all_branches:
   # - https://github.com/apache/spark
