@@ -381,3 +381,29 @@ users:
   - https://gitee.com/mindspore/website-v2
   - https://github.com/opensourceways/playground-app
   - https://gitee.com/openeuler/opendesign
+
+- name: 'Ting Zheng'
+  gitee_id: 'tzing_t'
+  github_id: 'tzing0013'
+  repos:
+  - https://gitee.com/openeuler/openstack
+  - https://gitee.com/openeuler/release-management
+  - https://gitee.com/src-openeuler/python-storage-interfaces
+  - https://gitee.com/src-openeuler/python-opentracing
+  - https://gitee.com/src-openeuler/python-bunch
+  - https://gitee.com/src-openeuler/python-tooz
+  - https://gitee.com/src-openeuler/python-taskflow
+  - https://gitee.com/src-openeuler/python-sphinx-feature-classification
+  - https://gitee.com/src-openeuler/python-rsd-lib
+  - https://gitee.com/src-openeuler/python-rbd-iscsi-client
+  - https://gitee.com/src-openeuler/python-pypowervm
+  - https://gitee.com/src-openeuler/python-proliantutils
+  - https://gitee.com/src-openeuler/python-murano-pkg-check
+  - https://gitee.com/src-openeuler/python-infinisdk
+  - https://gitee.com/src-openeuler/python-cotyledon
+  - https://gitee.com/src-openeuler/python-automaton
+  - https://gitee.com/src-openeuler/networking-generic-switch
+  - https://gitee.com/src-openeuler/networking-baremetal
+  - https://gitee.com/src-openeuler/gnocchi
+  repos_all_branches:
+  - https://gitee.com/src-openeuler/python-suds-jurko
