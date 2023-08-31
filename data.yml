@@ -55,6 +55,7 @@ users:
   - https://gitee.com/opensourceway/om-sdk-python
   - https://gitee.com/opengauss/release-management
   - https://gitee.com/opensourceway/easyeditor-server
+  - https://github.com/opensourceways/datastat-server
 - name: 'wangweifeng'
   gitee_id: 'wang-weifeng21'
   github_id: 'hiddenvillage'
