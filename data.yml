@@ -57,7 +57,7 @@ users:
   - https://gitee.com/opengauss/release-management
   - https://gitee.com/opensourceway/easyeditor-server
   - https://github.com/opensourceways/datastat-server
-  - https://github.com/Kaede10/DB-GPT
+  - https://github.com/opensourceways/DB-GPT
   - https://gitee.com/opensourceway/easymodel
   - https://gitee.com/opensourceway/easymodel-plugins
 - name: 'wangweifeng'
