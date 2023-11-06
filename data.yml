@@ -60,16 +60,25 @@ users:
   - https://github.com/opensourceways/DB-GPT
   - https://gitee.com/opensourceway/easymodel
   - https://gitee.com/opensourceway/easymodel-plugins
+
 - name: 'wangweifeng'
   gitee_id: 'wang-weifeng21'
   github_id: 'hiddenvillage'
   repos:
   - https://gitee.com/opensourceway/easyeditor-server
-  - https://github.com/opensourceways/discourse-translator/pulls
-  - https://github.com/opensourceways/discourse-oauth2-basic/pulls
-  - https://github.com/opensourceways/discourse_docker/pulls
-  - https://github.com/opensourceways/oneid-server
+  - https://github.com/opensourceways/discourse-translator
+  - https://github.com/opensourceways/discourse-oauth2-basic
   - https://github.com/opensourceways/om-docs
+  - https://github.com/opensourceways/DB-GPT
+  - https://github.com/opensourceways/datastat-server
+  - https://gitee.com/opensourceway/discourse-easecheck
+  - https://gitee.com/opensourceway/EaseSearch
+  - https://gitee.com/opensourceway/easymodel
+  repos_all_branches:
+  - https://github.com/opensourceways/discourse_docker
+  - https://github.com/opensourceways/oneid-server
+  - https://gitee.com/opensourceway/om-webserver
+
 - name: 'zhongyuanke'
   gitee_id: 'drizzlezyk'
   github_id: 'drizzlezyk'
