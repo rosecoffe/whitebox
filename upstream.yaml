@@ -30,6 +30,7 @@ users:
   - https://github.com/lustre/lustre-release
   - https://github.com/opencv/opencv
   - https://github.com/opencv/opencv_contrib
+  - https://github.com/huggingface/transformers
   # Optional, fetch all branches of repos
   repos_all_branches:
   # - https://github.com/apache/spark
