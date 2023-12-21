@@ -477,6 +477,7 @@ users:
 - name: 'Shuqiao Li'
   gitee_id: 'celestialli'
   github_id: 'celestialli'
+  hf_id: 'celestialli'
   alias:
   - "Li Shuqiao"
   - "Shuqiao Li"
