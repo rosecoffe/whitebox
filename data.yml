@@ -488,3 +488,12 @@ users:
   - https://github.com/openmerlin/merlin
   - https://github.com/volcano-sh/volcano
   - https://huggingface.co/spaces/ascend-ai/vicuna-on-ascend
+
+- name: 'Shuai Wang'
+  gitee_id: 'xiaozhunren'
+  github_id: 'wangshuai09'
+  repos:
+  - https://github.com/lm-sys/FastChat
+  - https://github.com/npu-ci/llm-tool-ci
+  - https://github.com/microsoft/DeepSpeed
+
