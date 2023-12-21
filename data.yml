@@ -32,6 +32,7 @@ users:
   # Optional, fetch all branches of repos
   repos_all_branches:
   - https://github.com/apache/spark
+  - https://github.com/cosdt/cosdt.github.io
 - name: 'Jun Zhong'
   gitee_id: 'zhongjun2'
   github_id: 'zhongjun2'
