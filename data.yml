@@ -373,6 +373,12 @@ users:
   - https://github.com/opensourceways/infra-common/
   - https://github.com/opensourceways/copr_docker
 
+- name: 'Wendong Cao'
+  gitee_id: 'devin-cwd'
+  github_id: 'DevinCarl'
+  repos:
+  - https://gitee.com/openeuler/opendesign-components
+
 - name: "Hua Fengchun"
   gitee_id: "hipudding"
   github_id: "hipudding"
@@ -496,4 +502,3 @@ users:
   - https://github.com/lm-sys/FastChat
   - https://github.com/npu-ci/llm-tool-ci
   - https://github.com/microsoft/DeepSpeed
-
