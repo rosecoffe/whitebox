@@ -265,6 +265,7 @@ users:
   - https://gitee.com/opengauss/openGauss-webclient
   - https://gitee.com/openeuler/lfs-course
   - https://github.com/TheOmniVirt/omnivirt
+  - https://github.com/openeuler-mirror/openEulerCodeHeat
   repos_all_branches:
   - https://gitee.com/openeuler/eulerlauncher
 
