@@ -440,6 +440,7 @@ users:
   - https://github.com/huggingface/text-generation-inference
   - https://github.com/huggingface/blog
   - https://github.com/huggingface/accelerate
+  - https://github.com/huggingface/trl
   - https://github.com/openmerlin/merlin
   - https://github.com/zhangsibo1129/hf-ci-demo
 
