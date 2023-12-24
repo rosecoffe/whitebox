@@ -29,6 +29,7 @@ users:
   - https://gitee.com/openeuler/TC
   - https://github.com/bioconda/bioconda-utils
   - https://github.com/cosdt/dockerfiles
+  - https://github.com/openmerlin/merlin
   # Optional, fetch all branches of repos
   repos_all_branches:
   - https://github.com/apache/spark
