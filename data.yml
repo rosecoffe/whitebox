@@ -91,12 +91,16 @@ users:
   - https://github.com/opensourceways/xihe-training-center
   - https://github.com/opensourceways/xihe-inference-evaluate
   - https://github.com/opensourceways/xihe-script
+  - https://github.com/opensourceways/xihe-extra-services
+  - https://github.com/opensourceways/xihe-statistics
   - https://github.com/opensourceways/infra-mindspore
   - https://github.com/drizzlezyk/MindSpore-competition
   - https://github.com/drizzlezyk/xihe_tutorial
   - https://github.com/drizzlezyk/CodeGeeX-deploy
-  # - https://github.com/drizzlezyk/pangu-deploy
   - https://github.com/drizzlezyk/DDPM-MindSpore
+  - https://github.com/openmerlin/merlin-server
+  - https://github.com/openmerlin/merlin-sdk
+  - https://github.com/openmerlin/merlin-message-server
   
 - name: 'Zeng Chen'
   gitee_id: 'zengchen1024'
