@@ -530,3 +530,9 @@ users:
   - https://gitee.com/modelx/MindSeed
   # 迁移到团队仓
   - https://github.com/zhangsibo1129/hf-ci-demo
+  
+- name: 'hongrongxuan'
+  gitee_id: 'barbo'
+  github_id: ''
+  repos_all_branches:
+  - https://gitee.com/OpenCloudOS/OpenCloudOS-Kernel
