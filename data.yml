@@ -62,6 +62,8 @@ users:
   - https://github.com/opensourceways/DB-GPT
   - https://gitee.com/opensourceway/easymodel
   - https://gitee.com/opensourceway/easymodel-plugins
+  repos_all_branches:
+  - https://gitee.com/opensourceway/EasySoftwareService
 
 - name: 'wangweifeng'
   gitee_id: 'wang-weifeng21'
