@@ -34,6 +34,7 @@ users:
   repos_all_branches:
   - https://github.com/apache/spark
   - https://github.com/cosdt/cosdt.github.io
+
 - name: 'Jun Zhong'
   gitee_id: 'zhongjun2'
   github_id: 'zhongjun2'
@@ -248,7 +249,6 @@ users:
   - https://github.com/Open-Infra-Ops/docs
   - https://github.com/Open-Infra-Ops/sbom_server_dev
 
-
 - name: 'Xiyuan Wang'
   gitee_id: 'xiyuanwang'
   github_id: 'wangxiyuan'
@@ -308,6 +308,7 @@ users:
   - https://gitee.com/src-openeuler/openstack-horizon
   - https://gitee.com/src-openeuler/openstack-ironic
   - https://gitee.com/src-openeuler/openstack-keystone
+
 - name: 'RuiChen'
   gitee_id: 'kiwik'
   github_id: 'kiwik'
@@ -332,6 +333,7 @@ users:
   - https://github.com/kiwik/gazelle_plugin
   # GithubAction aarch64 on x86
   - https://github.com/uraimo/run-on-arch-action
+
 - name: 'Weifeng Wang'
   gitee_id: 'wang-weifeng21'
   github_id: 'hiddenvillage'
@@ -341,6 +343,7 @@ users:
   - https://gitee.com/opensourceway/om-collections
   repos_all_branches:
   - https://github.com/opensourceways/discourse_docker
+
 - name: 'Yuanke Zhong'
   gitee_id: 'drizzlezyk'
   github_id: 'drizzlezyk'
@@ -530,6 +533,7 @@ users:
   - https://github.com/lm-sys/FastChat
   - https://github.com/npu-ci/llm-tool-ci
   - https://github.com/microsoft/DeepSpeed
+
 - name: 'Quan Jing'
   gitee_id: 'youjingq'
   github_id: 'jq460494839'
@@ -540,9 +544,23 @@ users:
   - https://gitee.com/modelx/MindSeed
   # 迁移到团队仓
   - https://github.com/zhangsibo1129/hf-ci-demo
+  - https://github.com/openmerlin/space-server-monitor
   
 - name: 'hongrongxuan'
   gitee_id: 'barbo'
   github_id: ''
   repos_all_branches:
   - https://gitee.com/OpenCloudOS/OpenCloudOS-Kernel
+
+- name: 'Zhonglin Gou'
+  gitee_id: 'gi1tee'
+  github_id: ''
+  repos:
+  - https://gitee.com/opensourceway/EasySoftwareInput
+
+- name: 'Long Jiang'
+  gitee_id: 'jl-brother1'
+  github_id: 'jlcoo'
+  repos:
+  - https://github.com/jlcoo/opengpts
+  
