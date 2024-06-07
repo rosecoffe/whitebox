@@ -109,6 +109,10 @@ users:
   gitee_id: 'zengchen1024'
   github_id: 'zengchen1024'
   repos:
+  - https://github.com/openmerlin/merlin-server
+  - https://github.com/openmerlin/gitea
+  - https://github.com/openmerlin/merlin-message-server
+  - https://github.com/openmerlin/git-access
   - https://github.com/omnibuildplatform/omni-scheduler
   - https://github.com/zengchen1024/obs-worker
   - https://github.com/opensourceways/test-infra
