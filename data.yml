@@ -581,3 +581,19 @@ users:
   repos:
   - https://gitee.com/opensourceway/EasySoftwareInput
   - https://gitee.com/opensourceway/EasySoftwareService
+
+- name: 'Shupei Shi'
+  gitee_id: 'shishupei10'
+  github_id: 'shishupei'
+  repos:
+  - https://github.com/opensourceways/message-collect
+  - https://github.com/opensourceways/message-collect-githook
+  - https://github.com/opensourceways/message-transfer
+  - https://github.com/opensourceways/message-push
+  - https://github.com/opensourceways/message-manager
+  repos_all_branches:
+  - https://github.com/opensourceways/message-collect
+  - https://github.com/opensourceways/message-collect-githook
+  - https://github.com/opensourceways/message-transfer
+  - https://github.com/opensourceways/message-push
+  - https://github.com/opensourceways/message-manager
