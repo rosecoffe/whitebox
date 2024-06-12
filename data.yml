@@ -582,6 +582,16 @@ users:
   - https://gitee.com/opensourceway/EasySoftwareInput
   - https://gitee.com/opensourceway/EasySoftwareService
 
+- name: 'Yanghang Li'
+  gitee_id: 'LiYanghang00'
+  github_id: 'LiYanghang00'
+  repos:
+    - https://github.com/openmerlin/merlin-server
+    - https://github.com/openmerlin/merlin-sdk
+    - https://github.com/openmerlin/gitea
+    - https://github.com/openmerlin/merlin-message-server
+    - https://github.com/openmerlin/git-access
+
 - name: 'Shupei Shi'
   gitee_id: 'shishupei10'
   github_id: 'shishupei'
