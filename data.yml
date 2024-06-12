@@ -105,7 +105,7 @@ users:
   - https://github.com/openmerlin/merlin-server
   - https://github.com/openmerlin/merlin-sdk
   - https://github.com/openmerlin/merlin-message-server
-
+  
 - name: 'Zeng Chen'
   gitee_id: 'zengchen1024'
   github_id: 'zengchen1024'
@@ -120,7 +120,7 @@ users:
   - https://github.com/opensourceways/app-cla-server
   - https://github.com/opensourceways/yabot
   - https://github.com/opensourceways/infra-mindspore
-  - https://github.com/opensourceways/robot-gitee-review-trigger
+  - https://github.com/opensourceways/robot-gitee-review-trigger 
   - https://github.com/opensourceways/repo-owners-cache
   - https://github.com/opensourceways/go-gitee
   - https://github.com/opensourceways/community-robot-lib
@@ -556,7 +556,7 @@ users:
   # 迁移到团队仓
   - https://github.com/zhangsibo1129/hf-ci-demo
   - https://github.com/openmerlin/space-server-monitor
-
+  
 - name: 'hongrongxuan'
   gitee_id: 'barbo'
   github_id: ''
@@ -574,7 +574,7 @@ users:
   github_id: 'jlcoo'
   repos:
   - https://github.com/jlcoo/opengpts
-
+  
 - name: 'Wenjie Zhai'
   gitee_id: 'zwjsec'
   github_id: 'ZWJason'
