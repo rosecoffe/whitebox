@@ -575,3 +575,9 @@ users:
   repos:
   - https://github.com/jlcoo/opengpts
   
+- name: 'Wenjie Zhai'
+  gitee_id: 'zwjsec'
+  github_id: 'ZWJason'
+  repos:
+  - https://gitee.com/opensourceway/EasySoftwareInput
+  - https://gitee.com/opensourceway/EasySoftwareService
