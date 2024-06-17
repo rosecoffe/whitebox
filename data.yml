@@ -713,6 +713,15 @@ users:
   - https://github.com/opensourceways/message-push
   - https://github.com/opensourceways/message-manager
 
+- name: 'Zesheng Zong'
+  gitee_id: 'hippocookie'
+  github_id: 'hippocookie'
+  repos:
+  - https://github.com/pytorch/pytorch
+  - https://github.com/pytorch/tutorials
+  - https://github.com/PyTorch-China/pytorch-china.github.io
+  - https://github.com/PyTorch-China/tutorials
+
 - name: 'Yuanhao Ji'
   gitee_id: 'tsund'
   github_id: 'shink'
