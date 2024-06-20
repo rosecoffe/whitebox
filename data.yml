@@ -780,3 +780,20 @@ users:
     - https://gitee.com/src-openeuler/obs_meta
     - https://gitee.com/openeuler/li-wen
     - https://gitee.com/openeuler/website-v2
+
+- name: 'Zou Ming'
+  gitee_id: 'zou-ming-ivan'
+  github_id: 'ivan-zouming'
+  repos:
+  - https://github.com/opensourceways/deploy
+  repos_all_branches:
+  - https://github.com/openmerlin/merlin-server
+  - https://github.com/openmerlin/merlin-message-server
+  - https://github.com/openmerlin/gitea
+  - https://github.com/openmerlin/git-access
+  - https://github.com/openmerlin/moderation-service
+  - https://github.com/openmerlin/moderation-server
+  - https://github.com/openmerlin/moderation-service-sdk
+  - https://github.com/openmerlin/git-access-sdk
+  - https://github.com/openmerlin/merlin-sdk
+  - https://github.com/openmerlin/moderation-server-sdk
