@@ -536,3 +536,11 @@ users:
   github_id: ''
   repos_all_branches:
   - https://gitee.com/OpenCloudOS/OpenCloudOS-Kernel
+
+- name: 'lishutian'
+  gitee_id: 'li_zt'
+  github_id: ''
+  repos_all_branches:
+  - https://gitee.com/openharmony/graphic_graphic_2d
+  - https://gitee.com/openharmony/interface_sdk_c
+  - https://gitee.com/openharmony/arkui_ace_engine
