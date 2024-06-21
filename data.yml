@@ -676,6 +676,14 @@ users:
   repos_all_branches:
   - https://gitee.com/OpenCloudOS/OpenCloudOS-Kernel
 
+- name: 'lishutian'
+  gitee_id: 'li_zt'
+  github_id: ''
+  repos_all_branches:
+  - https://gitee.com/openharmony/graphic_graphic_2d
+  - https://gitee.com/openharmony/interface_sdk_c
+  - https://gitee.com/openharmony/arkui_ace_engine
+  
 - name: 'Zhonglin Gou'
   gitee_id: 'gi1tee'
   github_id: 'cllouud'
@@ -797,3 +805,4 @@ users:
   - https://github.com/openmerlin/git-access-sdk
   - https://github.com/openmerlin/merlin-sdk
   - https://github.com/openmerlin/moderation-server-sdk
+
