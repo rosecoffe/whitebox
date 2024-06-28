@@ -806,3 +806,14 @@ users:
   - https://github.com/openmerlin/merlin-sdk
   - https://github.com/openmerlin/moderation-server-sdk
 
+- name: 'Jie Xu'
+  gitee_id: ''
+  github_id: 'dabukaidehez'
+  repos:
+  - https://github.com/opensourceways/reproducible-website
+  
+- name: 'Tao Chen'
+  gitee_id: ''
+  github_id: 'codechentao'
+  repos:
+  - https://github.com/opensourceways/reproducible-backend
