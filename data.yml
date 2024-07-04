@@ -456,6 +456,8 @@ users:
   - https://gitee.com/mindspore/website-v2
   - https://github.com/opensourceways/playground-app
   - https://gitee.com/openeuler/opendesign
+  - https://github.com/opensourceways/message-manager-website
+  - https://github.com/opensourceways/app-cla-webui
 
 - name: 'Ting Zheng'
   gitee_id: 'tzing_t'
@@ -821,3 +823,11 @@ users:
   github_id: 'codechentao'
   repos:
   - https://github.com/opensourceways/reproducible-backend
+  
+- name: 'Jixiang Li'
+  gitee_id: 'G-Sacker'
+  github_id: 'G-Sacker'
+  repos:
+  - https://github.com/opensourceways/datastat-server
+  repos_all_branches:
+  - https://github.com/opensourceways/datastat-server
