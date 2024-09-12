@@ -861,3 +861,29 @@ users:
   github_id: 'hongziqi'
   repos:
   - https://github.com/opensourceways/xihe-inference-evaluate
+
+- name: 'Chao Feng'
+  gitee_id: 'ibforu'
+  github_id: 'ibfru'
+  repos:
+    - https://gitee.com/openeuler/infrastructure
+    - https://gitee.com/openmind-ai/community
+    - https://gitee.com/openeuler/community
+    - https://github.com/opensourceways/server-common-lib
+    - https://github.com/opensourceways/community-robot-lib
+    - https://github.com/opensourceways/go-gitee
+    - https://github.com/opensourceways/robot-gitee-openeuler-review
+    - https://github.com/opensourceways/robot-gitee-opengauss-review
+    - https://github.com/opensourceways/robot-gitee-openeuler-welcome
+    - https://github.com/opensourceways/robot-gitee-welcome
+    - https://github.com/opensourceways/robot-gitee-label
+    - https://github.com/opensourceways/robot-gitee-approve
+    - https://github.com/opensourceways/robot-gitee-checkpr
+    - https://github.com/opensourceways/robot-gitee-lgtm
+    - https://github.com/opensourceways/robot-gitee-cla
+    - https://github.com/opensourceways/robot-gitee-review-trigger
+    - https://github.com/opensourceways/robot-gitee-tide
+    - https://github.com/opensourceways/robot-gitee-assign
+    - https://github.com/opensourceways/robot-gitee-lifecycle
+    - https://github.com/opensourceways/robot-gitee-scavenger
+    - https://github.com/opensourceways/mirrorbits
