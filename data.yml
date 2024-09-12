@@ -593,6 +593,11 @@ users:
   - https://github.com/hiyouga/LLaMA-Factory
   - https://github.com/facebookresearch/detectron2
   - https://github.com/Ascend/docs
+  - https://github.com/axolotl-ai-cloud/axolotl
+  - https://github.com/ggerganov/whisper.cpp
+  - https://github.com/ggerganov/llama.cpp
+  - https://github.com/vllm-project/vllm
+  - https://github.com/hiyouga/LLaMA-Factory-Doc
 
 - name: 'Weijun Lu'
   gitee_id: 'lu-wei-army'
