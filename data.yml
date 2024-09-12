@@ -855,3 +855,9 @@ users:
   repos:
     - https://github.com/cosdt/npu-support-helper
     - https://github.com/openmerlin/space-server
+
+- name: 'Ziqi Hong'
+  gitee_id: 'candyhong'
+  github_id: 'hongziqi'
+  repos:
+  - https://github.com/opensourceways/xihe-inference-evaluate
