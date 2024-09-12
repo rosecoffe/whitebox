@@ -903,3 +903,13 @@ users:
   repos:
   - https://gitee.com/opensourceway/EasySoftwareService
   - https://github.com/opensourceways/easypackages
+
+- name: 'Lang Wen'
+  gitee_id: 'Wenl4ng'
+  github_id: 'Goalina'
+  repos:
+  - https://github.com/openmerlin/gitea
+  - https://github.com/openmerlin/git-access
+  - https://github.com/openmerlin/merlin-website
+  repos_all_branches:
+  - https://gitee.com/openmind-ai/openmind-hub
