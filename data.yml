@@ -888,6 +888,3 @@ users:
   repos:
     - https://github.com/cosdt/npu-support-helper
     - https://github.com/openmerlin/space-server
-  repos_all_branches:
-    - https://github.com/cosdt/npu-support-helper
-    - https://github.com/openmerlin/space-server
