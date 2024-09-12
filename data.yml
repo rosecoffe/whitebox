@@ -868,3 +868,9 @@ users:
   - https://github.com/Open-Infra-Ops/IntegrateTest
   - https://github.com/Open-Infra-Ops/openApiTest
   - https://gitee.com/liuyu18801113053/ui-automation-testing
+
+- name: 'Kaiwen Zheng'
+  gitee_id: 'rosecoffe'
+  github_id: 'rosecoffe'
+  repos:
+  - https://github.com/Open-Infra-Ops/openApiTest
