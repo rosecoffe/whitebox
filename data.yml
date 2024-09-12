@@ -881,3 +881,10 @@ users:
   - https://github.com/Open-Infra-Ops/openApiTest
   - https://gitee.com/liuyu18801113053/ui-automation-testing
 
+
+- name: 'Li Wang'
+  gitee_id: 'wl'
+  github_id: 'Potabk'
+  repos:
+    - https://github.com/cosdt/npu-support-helper
+    - https://github.com/openmerlin/space-server
