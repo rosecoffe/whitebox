@@ -849,7 +849,6 @@ users:
   - https://github.com/Open-Infra-Ops/openApiTest
   - https://gitee.com/liuyu18801113053/ui-automation-testing
 
-
 - name: 'Li Wang'
   gitee_id: 'wl'
   github_id: 'Potabk'
@@ -897,3 +896,10 @@ users:
   - https://gitee.com/Zherphy/test-project
   - https://gitee.com/Zherphy/giftless
   - https://gitee.com/Zherphy/testg-gitee
+
+- name: 'Xiaobao Liu'
+  gitee_id: 'liulxb'
+  github_id: 'liulxb'
+  repos:
+  - https://gitee.com/opensourceway/EasySoftwareService
+  - https://github.com/opensourceways/easypackages
