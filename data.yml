@@ -862,3 +862,61 @@ users:
     - https://github.com/cosdt/npu-support-helper
     - https://github.com/openmerlin/space-server
 
+- name: 'Ziqi Hong'
+  gitee_id: 'candyhong'
+  github_id: 'hongziqi'
+  repos:
+  - https://github.com/opensourceways/xihe-inference-evaluate
+
+- name: 'Chao Feng'
+  gitee_id: 'ibforu'
+  github_id: 'ibfru'
+  repos:
+    - https://gitee.com/openeuler/infrastructure
+    - https://gitee.com/openmind-ai/community
+    - https://gitee.com/openeuler/community
+    - https://github.com/opensourceways/server-common-lib
+    - https://github.com/opensourceways/community-robot-lib
+    - https://github.com/opensourceways/go-gitee
+    - https://github.com/opensourceways/robot-gitee-openeuler-review
+    - https://github.com/opensourceways/robot-gitee-opengauss-review
+    - https://github.com/opensourceways/robot-gitee-openeuler-welcome
+    - https://github.com/opensourceways/robot-gitee-welcome
+    - https://github.com/opensourceways/robot-gitee-label
+    - https://github.com/opensourceways/robot-gitee-approve
+    - https://github.com/opensourceways/robot-gitee-checkpr
+    - https://github.com/opensourceways/robot-gitee-lgtm
+    - https://github.com/opensourceways/robot-gitee-cla
+    - https://github.com/opensourceways/robot-gitee-review-trigger
+    - https://github.com/opensourceways/robot-gitee-tide
+    - https://github.com/opensourceways/robot-gitee-assign
+    - https://github.com/opensourceways/robot-gitee-lifecycle
+    - https://github.com/opensourceways/robot-gitee-scavenger
+    - https://github.com/opensourceways/mirrorbits
+
+- name: 'Yi Zhou'
+  gitee_id: 'Zherphy'
+  github_id: 'Zherphy'
+  repos:
+  - https://github.com/Zherphy/BigFiles
+  - https://gitee.com/Zherphy/test-project
+  - https://gitee.com/Zherphy/giftless
+  - https://gitee.com/Zherphy/testg-gitee
+
+- name: 'Xiaobao Liu'
+  gitee_id: 'liulxb'
+  github_id: 'liulxb'
+  repos:
+  - https://gitee.com/opensourceway/EasySoftwareService
+  - https://github.com/opensourceways/easypackages
+
+- name: 'Lang Wen'
+  gitee_id: 'Wenl4ng'
+  github_id: 'Goalina'
+  repos:
+  - https://github.com/openmerlin/gitea
+  - https://github.com/openmerlin/git-access
+  - https://github.com/openmerlin/merlin-website
+  repos_all_branches:
+  - https://gitee.com/openmind-ai/openmind-hub
+  
