@@ -797,6 +797,14 @@ users:
   repos_all_branches:
   - https://github.com/opensourceways/datastat-server
 
+- name: 'Jiahao Su'
+  gitee_id: ''
+  github_id: 'xuedinge233'
+  repos:
+  - https://github.com/Ascend/docs
+  - https://github.com/microsoft/DeepSpeed
+  - https://github.com/ggerganov/llama.cpp
+
 - name: 'Zheng Qin'
   gitee_id: 'qinzheng4'
   github_id: '22dimensions'
