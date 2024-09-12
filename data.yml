@@ -849,6 +849,7 @@ users:
   - https://github.com/Open-Infra-Ops/openApiTest
   - https://gitee.com/liuyu18801113053/ui-automation-testing
 
+
 - name: 'Li Wang'
   gitee_id: 'wl'
   github_id: 'Potabk'
@@ -887,3 +888,12 @@ users:
     - https://github.com/opensourceways/robot-gitee-lifecycle
     - https://github.com/opensourceways/robot-gitee-scavenger
     - https://github.com/opensourceways/mirrorbits
+
+- name: 'Yi Zhou'
+  gitee_id: 'Zherphy'
+  github_id: 'Zherphy'
+  repos:
+  - https://github.com/Zherphy/BigFiles
+  - https://gitee.com/Zherphy/test-project
+  - https://gitee.com/Zherphy/giftless
+  - https://gitee.com/Zherphy/testg-gitee
