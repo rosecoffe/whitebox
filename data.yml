@@ -848,7 +848,7 @@ users:
   repos_all_branches:
   - https://github.com/opensourceways/datastat-server
 
-- name: 'Jiahao su'
+- name: 'Jiahao Su'
   gitee_id: ''
   github_id: 'xuedinge233'
   repos:
