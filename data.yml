@@ -821,10 +821,8 @@ users:
   repos:
   - https://github.com/openmerlin/space-server-monitor
   - https://github.com/openmerlin/space-server
-  - https://github.com/openmerlin/space-server-quick-script
-  - https://github.com/openmerlin/workflow-automate
-  - https://github.com/opensourceways/deploy
   - https://github.com/openmerlin/image-build-tool
+  - https://github.com/openmerlin/space-k8s-operator
 
 - name: 'Jixiang Li'
   gitee_id: 'G-Sacker'
